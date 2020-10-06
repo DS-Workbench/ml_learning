@@ -1,0 +1,8 @@
+# Book settings
+title: Isolation Forest
+author: Dimitrios Solomos
+logo: logo.png
+
+latex:
+  latex_documents:
+    targetname: book.tex
